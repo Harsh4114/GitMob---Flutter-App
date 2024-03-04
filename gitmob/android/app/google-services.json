@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424584522108",
+    "project_id": "gitmob-d3123",
+    "storage_bucket": "gitmob-d3123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424584522108:android:3b61be4cce15cdae6c1cf9",
+        "android_client_info": {
+          "package_name": "com.example.gitmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDrkUZlwjfyoC8ACHqhx180kiOGKsRAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
