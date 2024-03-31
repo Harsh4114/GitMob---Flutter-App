@@ -25,7 +25,7 @@ If you encounter any issues or have any feedback or suggestions for improving Gi
 
 ## Contributing
 
-GitMob is an open-source project, and we welcome contributions from the community. If you're interested in contributing to GitMob, please check out our [GitHub repository](https://github.com/gitmob/gitmob) for more information on how to get started.
+GitMob is an open-source project, and we welcome contributions from the community. If you're interested in contributing to GitMob, please check out our [GitHub repository]([https://github.com/gitmob/gitmob](https://github.com/Harsh4114/GitMob---Flutter-App)) for more information on how to get started.
 
 
 ## Disclaimer
