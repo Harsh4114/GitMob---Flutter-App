@@ -19,13 +19,9 @@ To get started with GitMob, follow these simple steps:
 2. **Sign Up or Log In**: Create a new account or log in with your existing credentials to access GitMob's features.
 3. **Explore and Share**: Explore the app's features, start sharing your code, or join existing projects to collaborate with others.
 
-## Support and Feedback
-
-If you encounter any issues or have any feedback or suggestions for improving GitMob, we'd love to hear from you! You can reach out to us via email at support@gitmob.com or through our in-app feedback system.
-
 ## Contributing
 
-GitMob is an open-source project, and we welcome contributions from the community. If you're interested in contributing to GitMob, please check out our [GitHub repository](https://github.com/Harsh4114/GitMob---Flutter-App/blob/master/README.md) for more information on how to get started.
+GitMob is an open-source project, and we welcome contributions from the community. If you're interested in contributing to GitMob, please check out our [GitHub repository](https://github.com/Harsh4114/GitMob---Flutter-App/tree/master) for more information on how to get started.
 
 
 ## Disclaimer
