@@ -30,4 +30,4 @@ GitMob is a third-party application and is not affiliated with or endorsed by an
 
 ---
 
-**Note**: GitMob is designed to simplify code sharing and collaboration on mobile devices. However, please ensure that you adhere to best practices for code security and confidentiality when using GitMob to share your code.
+**Note**: GitMob is designed to simplify code sharing and collaboration on mobile devices. However, please ensure that you adhere to best practices for code security and confidentiality when using GitMob to share your code. also this app is in under development 
